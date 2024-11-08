@@ -2,9 +2,9 @@
   "manifest_version": "2",
   "required_api_version": "2",
   "api_version": "1",
-  "name": "System Management Direct",
-  "description": "Direct access to Lock, Suspend, Shut Down and Restart commands",
-  "developer_name": "episode6, Inc.",
+  "name": "Power Manager",
+  "description": "Lock, Suspend, Shut Down and Restart from the Ulauncher",
+  "developer_name": "Alexander Nabokikh",
   "icon": "icon.svg",
   "preferences": [
     {
